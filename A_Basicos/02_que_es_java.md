@@ -6,8 +6,8 @@
 
 Java es un lenguaje de programación orientado a objetos de proposito general, valido para generar todo tipo de aplicaciones
 
-- creado en _Sun Microsystems in_ por un grupo de trabajo lidera por James Gosling
-  -Presentado en 1995
+- creado en _Sun Microsystems in_ por un grupo de trabajo lidera por James Gosling actualmente de Oracle
+- Presentado en 1995
 
 ## ¿Qué lo hace distinto?
 
@@ -25,7 +25,7 @@ Java es un lenguaje de programación orientado a objetos de proposito general, v
 
 Para empezar a desarrollar programas en java, escribir código o aplicaciones necesitamos un entorno de desarrolo como NeatBeans, Eclipse, VSCode.
 
-La sintaxis básica, básica es:
+La sintaxis básica para crear un programa es:
 
 ```Java
 
@@ -39,9 +39,11 @@ public class main{
 }
 ```
 
-A diferencia de otros lenguajes de tipado debil como Js, o Python necesitamos esa escrutura inical de clases
+A diferencia de otros lenguajes de tipado debil como Js, o Python necesitamos esa escrutura inical de clases, es decir necesitamos tener el código anterior para que funciones.
 
 ## //Los comentarios
+
+Un comentario es una porción de texto dentro del código que no se ejecuta
 
 ```Java
 // De una linea

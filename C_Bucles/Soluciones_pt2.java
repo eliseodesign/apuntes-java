@@ -1,4 +1,6 @@
-public class Soluciones_3_1 {
+package C_Bucles;
+
+public class Soluciones_pt2 {
 
     public static void main(String[] args) {
 

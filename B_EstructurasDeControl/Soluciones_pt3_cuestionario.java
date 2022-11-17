@@ -1,6 +1,8 @@
+package B_EstructurasDeControl;
+
 import java.util.Scanner;
 
-public class Soluciones_2_2_Cuestionario {
+public class Soluciones_pt3_cuestionario {
 
     public static void main(String[] args) {
 

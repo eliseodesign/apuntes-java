@@ -1,4 +1,6 @@
-public class Soluciones_3 {
+package C_Bucles;
+
+public class Soluciones_pt1 {
 
     public static void main(String[] args) {
         System.out.println("----------1----------");

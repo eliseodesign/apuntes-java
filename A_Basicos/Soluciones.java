@@ -1,7 +1,6 @@
+package A_Basicos;
 
-// Aqui resolveremos los ejercicios
-
-public class l005_Ejercicios {
+public class Soluciones {
 
     public static void main(String[] args) {
 
