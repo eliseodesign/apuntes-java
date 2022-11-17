@@ -1,7 +1,7 @@
 
 // Aqui resolveremos los ejercicios
 
-public class Soluciones_1 {
+public class l005_Ejercicios {
 
     public static void main(String[] args) {
 
