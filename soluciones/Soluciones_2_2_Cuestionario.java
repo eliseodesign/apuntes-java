@@ -42,5 +42,7 @@ public class Soluciones_2_2_Cuestionario {
 
         System.out.println("---FIN---");
         System.out.println("Tu puntaje fue:" + puntaje + "/3");
+
+        scan.close();
     }
 }
