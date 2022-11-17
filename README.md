@@ -1,12 +1,8 @@
 # MIS APUNTES DE JAVA
 
-Hola soy Eliseo Design, este es mi repositorio donde documento mis apuntes de Java, espero te sean de utilidad
+Documentación/apuntes de Java
 
-Trato siempre la manera de hacerlos lo mas simples posibles
-
-El contenido acual es
-
-## [A - Básicos](./A_Basicos/)
+### [A - Básicos](./A_Basicos/)
 
 - [01 Introducción](./A_Basicos/01_introduccion.md)
 - [02 Qué es Java](./A_Basicos/02_que_es_java.md)
@@ -15,7 +11,7 @@ El contenido acual es
 - [Ejercicios](./A_Basicos/Ejercicios.md)
 - [Soluciones](./A_Basicos/Soluciones.java)
 
-## [B - Estructuras De Control](./B_EstructurasDeControl/)
+### [B - Estructuras De Control](./B_EstructurasDeControl/)
 
 - [01 Entrada de usuario](./B_EstructurasDeControl/01_entrada_de_usuario.md)
 - [02 Condicional If](./B_EstructurasDeControl/02_condicional_if.md)
@@ -26,7 +22,7 @@ El contenido acual es
 - [Solucione pt1](./B_EstructurasDeControl/Soluciones_pt2.java.md)
 - [Solucione pt1](./B_EstructurasDeControl/Soluciones_pt3_cuestionario.java.java.md)
 
-## [C - Bucles](./C_Bucles/)
+### [C - Bucles](./C_Bucles/)
 
 - [01 Bucle For](./C_Bucles/01_bucle_for.md)
 - [02 Bucle While](./C_Bucles/02_bucle_while.md)
